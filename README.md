@@ -52,5 +52,5 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ---
 
-> _“A lion sleeps in the heart of every brave man.”_ – 🦁  
+> _“Remember who you are.”_ – 🦁  
 (*Inspired by my favorite movie, The Lion King*)
