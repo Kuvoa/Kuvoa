@@ -1,5 +1,3 @@
-okay# khristiannovoa
-
 # 👋 Hi, I'm Khristian Novoa!
 ![Simba](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRpZTUyODVjaGlka280ejF5czhnbWk0em14cThzbng0bWJsdnN0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lp71UWmAAeJHi/giphy.gif)
 
