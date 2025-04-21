@@ -1,6 +1,7 @@
 okay# khristiannovoa
 
 # 👋 Hi, I'm Khristian Novoa!
+![Simba](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRpZTUyODVjaGlka280ejF5czhnbWk0em14cThzbng0bWJsdnN0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lp71UWmAAeJHi/giphy.gif)
 
 I'm a **Data Analytics student at Turing College** with a passion for solving problems, uncovering insights through data, and using storytelling to make analysis meaningful. With a background in law enforcement and youth advocacy, I bring a unique, human-centered perspective to every dataset I explore.
 
