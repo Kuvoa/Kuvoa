@@ -29,7 +29,8 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ## 📈 Featured Projects
 
-- ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis)  
+- ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis)
+- [**Coursera Kaggle Dataset Analysis**](https://github.com/Kuvoa/CourseraDataSet.git)
 
 
 ---
