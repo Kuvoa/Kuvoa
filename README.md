@@ -31,6 +31,7 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 - ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis)
 - 📖 [**Coursera Kaggle Dataset Analysis**](https://github.com/Kuvoa/CourseraDataSet.git)
+- 💰 [**Customer Lifetime Value (CLV) Analysis**](https://github.com/Kuvoa/CLV-RFM-Analysis.git) - Advanced analysis using cohort-based CLV calculation with BigQuery SQL, Excel, and PowerPoint, providing insights on user revenue trends.
 
 
 ---
