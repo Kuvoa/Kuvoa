@@ -29,7 +29,7 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ## 📈 Featured Projects
 
-- ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis)
+- ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis) - Analyzing flight traffic between Terminal 3 (T3) and Terminal 1 (T1) using Excel, an Image-to-Text App, ChatGPT, and PowerPoint, uncovering key trends in domestic and international flights.
 - 📖 [**Coursera Kaggle Dataset Analysis**](https://github.com/Kuvoa/CourseraDataSet.git) - Comprehensive Exploratory Data Analysis (EDA) of Coursera courses using Python, pandas, matplotlib, and seaborn, uncovering trends in course ratings, enrollments, and organizations.
 - 💰 [**Customer Lifetime Value (CLV) Analysis**](https://github.com/Kuvoa/CLV-RFM-Analysis.git) - Advanced analysis using cohort-based CLV calculation with BigQuery SQL, Excel, and PowerPoint, providing insights on user revenue trends.
 
