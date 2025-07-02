@@ -5,7 +5,7 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Currently studying **Data Analytics** at **Turing College** gh repo clone Kuvoa/My-Credentials-
 - 🏢 Part-time stocker at **Johnston & Murphy**, recently supported airport traffic analysis for store planning  
@@ -15,7 +15,7 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ---
 
-## 🔧 Tools & Skills
+## Tools & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -27,7 +27,7 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ---
 
-## 📈 Featured Projects
+## Featured Projects
 
 - ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis) - Analyzing flight traffic between Terminal 3 (T3) and Terminal 1 (T1) using Excel, an Image-to-Text App, ChatGPT, and PowerPoint, uncovering key trends in domestic and international flights.
 - 📖 [**Coursera Kaggle Dataset Analysis**](https://github.com/Kuvoa/CourseraDataSet.git) - Comprehensive Exploratory Data Analysis (EDA) of Coursera courses using Python, pandas, matplotlib, and seaborn, uncovering trends in course ratings, enrollments, and organizations.
@@ -37,7 +37,7 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ---
 
-## 📚 What I'm Learning Now
+## What I'm Learning Now
 
 - Using **Jupyter Notebook** to create visualizations and explore data through charts and graphs  
 -  Practicing and reinforcing all of my coding knowledge — from Python and SQL to data cleaning, analysis, and storytelling  
