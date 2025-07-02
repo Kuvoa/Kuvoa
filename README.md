@@ -7,7 +7,7 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ## About Me
 
-- 🎓 Currently studying **Data Analytics** at **Turing College** gh repo clone Kuvoa/My-Credentials-
+- 🎓 Currently studying **Data Analytics** at **Turing College** ![Roadmap](https://github.com/Kuvoa/My-Credentials-)
 - 🏢 Part-time stocker at **Johnston & Murphy**, recently supported airport traffic analysis for store planning  
 - 🔍 Focused on: SQL, Python, Power BI, Excel, and A/B testing  
 - 💡 I enjoy coding for data analytics—whether it's writing SQL queries, cleaning data with Python, or building visualizations, I love the challenge of turning raw data into clear, actionable insights  
