@@ -38,10 +38,11 @@ I’m passionate about using data to improve processes, support decision-making,
 
 ## What I'm Learning Now
 
-- Using **Jupyter Notebook** to create visualizations and explore data through charts and graphs  
--  Practicing and reinforcing all of my coding knowledge — from Python and SQL to data cleaning, analysis, and storytelling  
--  Building confidence in end-to-end workflows: importing data, analyzing patterns, and presenting insights visually  
--  Strengthening core concepts in A/B testing, customer behavior analysis, and retention metrics
+	•	Reinforcing foundational skills in Python and SQL through Boot.dev, with a focus on writing clean, efficient code for analysis and automation
+	•	Practicing data exploration and visualization using Jupyter Notebook, Matplotlib, and Seaborn to uncover trends and communicate insights
+	•	Building confidence in end-to-end workflows—from importing and cleaning data to analyzing behavior patterns and delivering clear visual narratives
+	•	Strengthening knowledge in A/B testing, retention metrics, and customer behavior analysis, with a focus on applying these skills to real business problems
+	•	Continuing to grow in data storytelling, ensuring that technical work translates into meaningful, stakeholder-ready insights
 
 ---
 
