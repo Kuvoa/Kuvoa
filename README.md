@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Khristian Novoa!
 ![Simba](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRpZTUyODVjaGlka280ejF5czhnbWk0em14cThzbng0bWJsdnN0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lp71UWmAAeJHi/giphy.gif)
 
-I'm a **Data Analytics student at Turing College** with a passion for solving problems, uncovering insights through data, and using storytelling to make analysis meaningful. With a background in law enforcement and youth advocacy, I bring a unique, human-centered perspective to every dataset I explore.
+I’m a job-endorsed Data Analytics graduate from Turing College with hands-on experience in SQL, Python (logistic regression), Power BI, and Excel. I specialize in turning raw data into actionable insights through cohort analysis, A/B testing, customer segmentation (RFM, CLV), and predictive modeling.
 
----
+My journey into analytics is shaped by a background in law enforcement, security, and trauma-informed youth advocacy. In these roles, I developed a high level of attention to detail, composure under pressure, and a structured, human-centered approach to solving problems—all of which now inform how I approach data.
 
-## About Me
+Some of my recent projects include:
+	•	Predicting 10-year coronary heart disease (CHD) risk using logistic regression
+	•	Evaluating marketing campaigns using SQL-based A/B testing and hypothesis testing
+	•	Conducting RFM analysis to segment customer value and support retention strategies
 
-- 🎓 Currently studying **Data Analytics** at **Turing College**
-- [My Credentials Repository](https://github.com/Kuvoa/My-Credentials-)
-- 🏢 Part-time stocker at **Johnston & Murphy**, recently supported airport traffic analysis for store planning  
-- 🔍 Focused on: SQL, Python, Power BI, Excel, and A/B testing  
-- 💡 I enjoy coding for data analytics—whether it's writing SQL queries, cleaning data with Python, or building visualizations, I love the challenge of turning raw data into clear, actionable insights  
-- 🌱 Always learning something new and adapting fast!
+I’m passionate about using data to improve processes, support decision-making, and uncover meaningful trends. I thrive in environments that value integrity, collaboration, and continuous learning.
 
 ---
 
