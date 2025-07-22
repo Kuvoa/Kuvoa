@@ -39,11 +39,11 @@ I’m passionate about using data to improve processes, support decision-making,
 
 As part of my continuous learning journey, I'm currently focused on:
 
-- Reinforcing foundational skills in Python and SQL through Boot.dev, with a focus on writing clean, efficient code for analysis and automation
-- Practicing data exploration and visualization using Jupyter Notebook, Matplotlib, and Seaborn to uncover trends and communicate insights
-- Building confidence in end-to-end workflows—from importing and cleaning data to analyzing behavior patterns and delivering clear visual narratives
-- Strengthening knowledge in A/B testing, retention metrics, and customer behavior analysis, with a focus on applying these skills to real business problems
-- Continuing to grow in data storytelling, ensuring that technical work translates into meaningful, stakeholder-ready insights
+- Strengthening foundational skills in **Python** and **SQL** through Boot.dev, emphasizing clean, efficient code for data analysis and automation  
+- Exploring data through **Jupyter Notebook**, using **Matplotlib** and **Seaborn** to visualize trends and communicate insights effectively  
+- Building confidence in **end-to-end data workflows**—from importing and cleaning raw data to analyzing patterns and presenting clear, visual narratives  
+- Deepening knowledge in **A/B testing**, **retention analysis**, and **customer behavior metrics**, with a focus on applying these skills to solve real-world business problems  
+- Developing my ability in **data storytelling**, ensuring technical findings are always aligned with stakeholder needs and business goals  
 
 ---
 
