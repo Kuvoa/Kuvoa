@@ -33,18 +33,19 @@ I’m passionate about using data to improve processes, support decision-making,
 - 💰 [**Customer Lifetime Value (CLV) Analysis**](https://github.com/Kuvoa/CLV-RFM-Analysis.git) - Advanced analysis using cohort-based CLV calculation with BigQuery SQL, Excel, and PowerPoint, providing insights on user revenue trends.
 -  🔎 [**A/B Test Analysis (Fast Food Marketing Campaign)**](https://github.com/Kuvoa/A-b-Testing-.git) - Conducted a robust A/B test using BigQuery SQL, Excel, and PowerPoint, identifying the most effective marketing promotion.
 
-
-
+---
 
 ## What I'm Learning Now
 
-	•	Reinforcing foundational skills in Python and SQL through Boot.dev, with a focus on writing clean, efficient code for analysis and automation
-	•	Practicing data exploration and visualization using Jupyter Notebook, Matplotlib, and Seaborn to uncover trends and communicate insights
-	•	Building confidence in end-to-end workflows—from importing and cleaning data to analyzing behavior patterns and delivering clear visual narratives
-	•	Strengthening knowledge in A/B testing, retention metrics, and customer behavior analysis, with a focus on applying these skills to real business problems
-	•	Continuing to grow in data storytelling, ensuring that technical work translates into meaningful, stakeholder-ready insights
+As part of my continuous learning journey, I'm currently focused on:
 
+- Reinforcing foundational skills in Python and SQL through Boot.dev, with a focus on writing clean, efficient code for analysis and automation
+- Practicing data exploration and visualization using Jupyter Notebook, Matplotlib, and Seaborn to uncover trends and communicate insights
+- Building confidence in end-to-end workflows—from importing and cleaning data to analyzing behavior patterns and delivering clear visual narratives
+- Strengthening knowledge in A/B testing, retention metrics, and customer behavior analysis, with a focus on applying these skills to real business problems
+- Continuing to grow in data storytelling, ensuring that technical work translates into meaningful, stakeholder-ready insights
 
+---
 
 ## 📫 Let's Connect
 
