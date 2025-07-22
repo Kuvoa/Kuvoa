@@ -34,7 +34,7 @@ I’m passionate about using data to improve processes, support decision-making,
 -  🔎 [**A/B Test Analysis (Fast Food Marketing Campaign)**](https://github.com/Kuvoa/A-b-Testing-.git) - Conducted a robust A/B test using BigQuery SQL, Excel, and PowerPoint, identifying the most effective marketing promotion.
 
 
----
+
 
 ## What I'm Learning Now
 
@@ -44,7 +44,7 @@ I’m passionate about using data to improve processes, support decision-making,
 	•	Strengthening knowledge in A/B testing, retention metrics, and customer behavior analysis, with a focus on applying these skills to real business problems
 	•	Continuing to grow in data storytelling, ensuring that technical work translates into meaningful, stakeholder-ready insights
 
----
+
 
 ## 📫 Let's Connect
 
