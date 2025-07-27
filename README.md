@@ -28,11 +28,17 @@ I’m passionate about using data to improve processes, support decision-making,
 
 ## Featured Projects
 
-- ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis) - Analyzing flight traffic between Terminal 3 (T3) and Terminal 1 (T1) using Excel, an Image-to-Text App, ChatGPT, and PowerPoint, uncovering key trends in domestic and international flights.
-- 📖 [**Coursera Kaggle Dataset Analysis**](https://github.com/Kuvoa/CourseraDataSet.git) - Comprehensive Exploratory Data Analysis (EDA) of Coursera courses using Python, pandas, matplotlib, and seaborn, uncovering trends in course ratings, enrollments, and organizations.
-- 💰 [**Customer Lifetime Value (CLV) Analysis**](https://github.com/Kuvoa/CLV-RFM-Analysis.git) - Advanced analysis using cohort-based CLV calculation with BigQuery SQL, Excel, and PowerPoint, providing insights on user revenue trends.
--  🔎 [**A/B Test Analysis (Fast Food Marketing Campaign)**](https://github.com/Kuvoa/A-b-Testing-.git) - Conducted a robust A/B test using BigQuery SQL, Excel, and PowerPoint, identifying the most effective marketing promotion.
--  🩺 [**10-Year CHD Risk Prediction (Logistic Regression)**](https://github.com/Kuvoa/CHD-Logistic-Regression-) – Developed a full logistic regression workflow in Jupyter Notebook to estimate 10-year coronary heart disease risk, including data ingestion, cleaning, feature engineering, multicollinearity checks via VIF, threshold optimization, and comprehensive model evaluation using Python (pandas, scikit-learn, statsmodels), matplotlib, and seaborn.
+## Selected Projects
+
+- ✈️ **[O’Hare Airport Terminal Analysis](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis)** — Analyzed flight traffic between Terminal 3 (T3) and Terminal 1 (T1), uncovering key domestic vs. international trends. *Excel · Image-to-Text App · ChatGPT · PowerPoint*
+
+- 📖 **[Coursera Kaggle Dataset Analysis](https://github.com/Kuvoa/CourseraDataSet.git)** — Performed comprehensive EDA on Coursera courses to surface patterns in ratings, enrollments, and providers. *Python · pandas · Matplotlib · seaborn*
+
+- 💰 **[Customer Lifetime Value (CLV) Analysis](https://github.com/Kuvoa/CLV-RFM-Analysis.git)** — Built cohort-based CLV models to track revenue trends and inform retention strategies. *BigQuery SQL · Excel · PowerPoint*
+
+- 🔎 **[A/B Test Analysis (Fast Food Marketing Campaign)](https://github.com/Kuvoa/A-b-Testing-.git)** — Designed and evaluated an A/B test across three promotions to identify the top performer. *BigQuery SQL · Excel · PowerPoint*
+
+- 🩺 **[10-Year CHD Risk Prediction (Logistic Regression)](https://github.com/Kuvoa/CHD-Logistic-Regression-)** — Developed a full logistic regression pipeline to predict 10-year coronary heart disease risk, including VIF-based multicollinearity checks and threshold optimization. *Python (pandas · scikit-learn · statsmodels) · Matplotlib · seaborn*
   
 ---
 
