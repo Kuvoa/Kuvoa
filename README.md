@@ -32,7 +32,8 @@ I’m passionate about using data to improve processes, support decision-making,
 - 📖 [**Coursera Kaggle Dataset Analysis**](https://github.com/Kuvoa/CourseraDataSet.git) - Comprehensive Exploratory Data Analysis (EDA) of Coursera courses using Python, pandas, matplotlib, and seaborn, uncovering trends in course ratings, enrollments, and organizations.
 - 💰 [**Customer Lifetime Value (CLV) Analysis**](https://github.com/Kuvoa/CLV-RFM-Analysis.git) - Advanced analysis using cohort-based CLV calculation with BigQuery SQL, Excel, and PowerPoint, providing insights on user revenue trends.
 -  🔎 [**A/B Test Analysis (Fast Food Marketing Campaign)**](https://github.com/Kuvoa/A-b-Testing-.git) - Conducted a robust A/B test using BigQuery SQL, Excel, and PowerPoint, identifying the most effective marketing promotion.
-
+-  🩺 [**10-Year CHD Risk Prediction (Logistic Regression)**](https://github.com/Kuvoa/CHD-Logistic-Regression-) – Developed a full logistic regression workflow in Jupyter Notebook to estimate 10-year coronary heart disease risk, including data ingestion, cleaning, feature engineering, multicollinearity checks via VIF, threshold optimization, and comprehensive model evaluation using Python (pandas, scikit-learn, statsmodels), matplotlib, and seaborn.
+  
 ---
 
 ## What I'm Learning Now
